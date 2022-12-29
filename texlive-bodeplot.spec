@@ -1,5 +1,5 @@
 Name:		texlive-bodeplot
-Version:	64902
+Version:	65074
 Release:	1
 Summary:	Draw Bode, Nyquist and Nichols plots with gnuplot or pgfplots
 Group:		Publishing
