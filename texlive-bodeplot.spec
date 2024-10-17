@@ -3,7 +3,7 @@ Version:	71000
 Release:	1
 Summary:	Draw Bode, Nyquist and Nichols plots with gnuplot or pgfplots
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bodeplot
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bodeplot
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bodeplot.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bodeplot.doc.r%{version}.tar.xz
